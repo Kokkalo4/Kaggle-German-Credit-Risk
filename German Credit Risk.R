@@ -1,5 +1,5 @@
 #Load the file
-riskdat <- read.csv("c:/Users/alex/desktop/r/exercise data/german credit risk/german_credit_data.csv", stringsAsFactors = T)
+riskdat <- read.csv(".../input/german_credit_data.csv", stringsAsFactors = T)
 
 #Load libraries
 library(Hmisc)
